@@ -1,0 +1,6 @@
+/* This css file is used to change logo color to white when background color is blue */
+
+.filter-white {
+	filter: invert(100%) sepia(2%) saturate(0%) hue-rotate(159deg)
+		brightness(195%) contrast(120%);
+}
